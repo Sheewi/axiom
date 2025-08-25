@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "sandbox": "axiom-ecosystem",
+    "default": "axiom-ecosystem"
+  },
+  "targets": {},
+  "etags": {}
+}
