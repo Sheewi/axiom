@@ -1,4 +1,9 @@
 const nextConfig = {
+  output: 'export',
+  trailingSlash: true,
+  images: {
+    unoptimized: true
+  },
   webpack: (config) => {
     // Custom webpack configuration if needed
     return config;
